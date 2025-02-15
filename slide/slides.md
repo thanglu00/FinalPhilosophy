@@ -30,7 +30,7 @@ title: Thu hoạch môn Triết học
 - Khang (khang23mse23133@fsb.edu.vn)
 - Lâm (lamtt9341@gmail.com)
 - Tuấn (@tuanpmt)
-- AAA
+- Nguyễn Công Thắng
 - BBB
 
 </v-clicks>

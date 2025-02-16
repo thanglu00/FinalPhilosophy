@@ -188,7 +188,6 @@
 
 ### 2️⃣ Quan hệ giữa doanh nghiệp và khách hàng 🤝
 
-### Tác động của AI:
 - **Cá nhân hóa trải nghiệm**: AI phân tích dữ liệu khách hàng, dự đoán nhu cầu, đề xuất dịch vụ phù hợp.
 - **Giảm sự phụ thuộc vào nhân viên**: Khách hàng có thể tự phục vụ qua chatbot AI mà không cần gọi điện.
 - **Tăng hiệu quả phản hồi**: AI xử lý yêu cầu 24/7, giảm thời gian chờ của khách hàng.

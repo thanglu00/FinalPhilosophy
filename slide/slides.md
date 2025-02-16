@@ -106,11 +106,11 @@ layout: two-cols
   ```
 - Kết quả:
   ```
-  - Tư Liệu Sản Xuất – Công Nghệ AI Thay Đổi Công Cụ Lao Động:
+  - Tư Liệu Sản Xuất (máy móc, công cụ, công nghệ) – Công Nghệ AI Thay Đổi Công Cụ Lao Động:
     + AI Chatbots & Voicebots: Các hệ thống như Google Duplex, ChatGPT, Amazon Lex có thể thực hiện các cuộc gọi, trả lời tin nhắn và hỗ trợ khách hàng mà không cần con người.
     + Hệ Thống Xử Lý Ngôn Ngữ Tự Nhiên (NLP): AI giúp hiểu và phân tích các câu hỏi khách hàng, sau đó phản hồi nhanh chóng và chính xác.
     + Tự Động Hóa Quy Trình Công Việc (RPA – Robotic Process Automation): Hỗ trợ xử lý yêu cầu đơn giản như xác minh danh tính, đặt lịch hẹn, tra cứu thông tin, giúp tiết kiệm thời gian và nhân lực.
-  - Sức Lao Động – Con Người Chuyển Dịch Vai Trò :
+  - Sức Lao Động (con người, trí thức, kỹ năng) – Con Người Chuyển Dịch Vai Trò :
     + Từ Công Việc Lặp Lại → Công Việc Giá Trị Cao: Nhân viên CSKH sẽ tập trung vào các tình huống phức tạp hơn. Chuyển từ người trả lời trực tiếp sang người giám sát AI, đảm bảo chatbot hoạt động chính xác và nâng cấp trải nghiệm khách hàng.
     + Từ Nhân Viên Bị Động → Chuyên Gia Cố Vấn: Thay vì chỉ phản hồi, nhân viên CSKH cần có kỹ năng đồng cảm, tư duy sáng tạo, và xử lý tình huống linh hoạt để bổ sung vào các lỗ hổng của AI.
     Kết quả: Công việc của con người trong ngành Call Center dần chuyển từ lao động tay chân sang lao động tri thức, đòi hỏi nhiều kỹ năng hơn.

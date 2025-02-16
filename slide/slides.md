@@ -120,12 +120,12 @@ layout: two-cols
     Kết quả:
       + Có khả năng AI không chỉ là tư liệu sản xuất, mà còn có thể trở thành một "lực lượng sản xuất" mới vì nó có thể thực hiện chức năng mà trước đây chỉ có con người mới làm được – tạo ra giá trị kinh tế một cách độc lập.
       + So sánh AI Với Sức Lao Động Truyền Thống :
-          Tiêu chí	                      Sức lao động con người	                      AI
-          Học hỏi và phát triển kỹ năng	  Cần đào tạo, mất thời gian thích nghi	        Tự học qua dữ liệu, nhanh hơn nhiều
-          Tạo ra giá trị kinh tế	        Có khả năng sáng tạo và tư duy	              Bắt đầu có khả năng thay thế tư duy logic
-          Phụ thuộc vào con người	        Có ý thức, cảm xúc, cần động lực làm việc	    Hoạt động tự động, không cần động lực
-          Tính linh hoạt	                Thích ứng với nhiều lĩnh vực	                Đang dần đa nhiệm nhờ AI tổng hợp (AGI)
-          Khả năng mở rộng	              Giới hạn bởi sức khỏe và thời gian	          Có thể mở rộng vô hạn (Cloud AI)
+          |Tiêu chí	                      |Sức lao động con người	                      |AI|
+          |Học hỏi và phát triển kỹ năng	|Cần đào tạo, mất thời gian thích nghi	      |Tự học qua dữ liệu, nhanh hơn nhiều|
+          |Tạo ra giá trị kinh tế	        |Có khả năng sáng tạo và tư duy	              |Bắt đầu có khả năng thay thế tư duy logic|
+          |Phụ thuộc vào con người	      |Có ý thức, cảm xúc, cần động lực làm việc	  |Hoạt động tự động, không cần động lực|
+          |Tính linh hoạt	                |Thích ứng với nhiều lĩnh vực	                |Đang dần đa nhiệm nhờ AI tổng hợp (AGI)|
+          |Khả năng mở rộng	              |Giới hạn bởi sức khỏe và thời gian	          |Có thể mở rộng vô hạn (Cloud AI)|
       + Tóm lại, AI đang trở thành một lực lượng sản xuất mới, nhưng chúng ta cần kiểm soát AI để tránh sự bất bình đẳng kinh tế quá mức.  
   - ...
 

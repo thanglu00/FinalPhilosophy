@@ -20,6 +20,25 @@ Xây dựng kế hoạch hành động tránh ảnh hưởng tiêu cực bởi A
 </div>
 
 ---
+layout: center
+class: "text-center"
+---
+
+# Video Demo
+
+<div class="w-[40vw] h-[40vh]">
+  <iframe 
+    class="w-full h-full"
+    src="https://www.youtube.com/embed/lDekqBcFeaA" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen
+  ></iframe>
+</div>
+
+
+---
 layout: two-cols
 ---
 

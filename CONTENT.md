@@ -242,7 +242,7 @@
 
 - **Tự động hóa công việc**: AI-powered chatbot và voicebot có thể xử lý các câu hỏi đơn giản, giảm tải cho nhân viên tổng đài.
 - **Thay đổi vai trò nhân viên**: Nhân viên không chỉ trả lời cuộc gọi mà còn giám sát chatbot, xử lý các tình huống phức tạp hơn.
-- **Áp lực KPI & hiệu suất**: AI có thể đánh giá cuộc gọi theo thời gian thực, đo lường cảm xúc, tốc độ phản hồi, chất lượng tư vấn → tăng áp lực lên nhân viên.
+- **Áp lực KPI & hiệu suất**: AI có thể đánh giá cuộc gọi theo thời gian thực, tốc độ phản hồi, chất lượng tư vấn → tăng áp lực lên nhân viên.
 - **Đào tạo và thích ứng**: Nhân viên cần học cách làm việc với AI, sử dụng phần mềm hỗ trợ thông minh để nâng cao năng suất.
 
 ---

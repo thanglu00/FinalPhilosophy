@@ -509,15 +509,29 @@ layout: center
    - Triển khai 12 chính sách mới về AI
    - Tăng 50% ngân sách đào tạo
 
+</v-clicks>
+
+---
+
+<v-clicks>
+
+### Phản hồi của AI về tác động:
+
 3. Quy định pháp lý:
    - Tuân thủ 100% quy định về bảo mật
    - Giảm 90% rủi ro vi phạm dữ liệu
    - Xây dựng khung pháp lý AI riêng
 
-### Giải pháp thực thi:
-- ✅ Chương trình đào tạo AI 6 tháng
-- ✅ Hệ thống giám sát tuân thủ tự động
-- ✅ Ủy ban đạo đức AI nội bộ
+4. Giải pháp thực thi:
+   - Chương trình đào tạo AI 6 tháng
+   - Hệ thống giám sát tuân thủ tự động
+   - Ủy ban đạo đức AI nội bộ
+
+Kết Luận 
+AI đang thay đổi kiến trúc thượng tầng của Call Center & Tổng Đài CSKH trên nhiều khía cạnh. Doanh nghiệp cần:  
+   - Chuyển đổi văn hóa nội bộ 
+   - Cập nhật chính sách quản lý
+   - Tạo dựng khung pháp lý phù hợp
 
 </v-clicks>
 

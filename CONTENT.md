@@ -264,7 +264,7 @@
 
 ### 4️⃣ Quan hệ giữa doanh nghiệp và cơ quan quản lý ⚖️
 
-- **Vấn đề bảo mật & quyền riêng tư**: AI phân tích giọng nói, cảm xúc, lịch sử giao dịch → phải tuân thủ quy định về dữ liệu cá nhân (GDPR, Nghị định 91/2020/NĐ-CP).
+- **Vấn đề bảo mật & quyền riêng tư**: AI phân tích giọng nói, cảm xúc, lịch sử giao dịch → phải tuân thủ quy định về dữ liệu cá nhân.
 - **Kiểm soát chatbot AI**: Cơ quan quản lý có thể yêu cầu doanh nghiệp đảm bảo AI không gây hiểu lầm hoặc cung cấp thông tin sai lệch.
 
 ---

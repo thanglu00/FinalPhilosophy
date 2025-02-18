@@ -226,85 +226,6 @@ layout: two-cols
 </v-clicks>
 
 ---
-layout: two-cols
----
-
-# Prompt 3: Quan hệ Sản xuất
-
-<v-clicks>
-
-### Prompt ban đầu:
-```
-Liệt kê các mối quan hệ sản xuất 
-bị ảnh hưởng bởi AI
-```
-
-### Kết quả:
-- Liệt kê đơn giản
-- Thiếu phân tích sâu
-- Chưa có giải pháp
-
-</v-clicks>
-
-::right::
-
-<v-clicks>
-
-### Prompt cải tiến:
-```
-Với vai trò lãnh đạo Call Center:
-1. Phân tích tác động của AI đến:
-   - Quan hệ lao động
-   - Quan hệ khách hàng
-   - Quan hệ đối tác
-2. Đề xuất giải pháp cụ thể
-```
-
-### Kết quả cải thiện:
-- Phân tích đa chiều
-- Giải pháp thực tế
-- Góc nhìn quản lý
-
-</v-clicks>
-
----
-layout: two-cols
----
-
-# Kết quả từ Prompt 3: AI trong Quan hệ Sản xuất
-
-<v-clicks>
-
-### DN - Nhân viên & Khách hàng:
-1. Nhân viên:
-   - 60% chuyển sang giám sát AI
-   - Giảm 40% nhân sự tác nghiệp
-   - Tăng 25% lương với kỹ năng AI
-
-2. Khách hàng:
-   - 85% phản hồi trong 30 giây
-   - Tăng 40% giải quyết lần đầu
-
-</v-clicks>
-
-::right::
-
-<v-clicks>
-
-### DN - Đối tác & Giải pháp:
-1. Đối tác:
-   - Tích hợp 5+ nền tảng AI
-   - Chi phí tăng 30%
-   - ROI 200% sau 12 tháng
-
-2. Giải pháp:
-   - Đào tạo chuyển đổi kỹ năng
-   - Cân bằng AI và con người
-   - Tối ưu chi phí vận hành
-
-</v-clicks>
-
----
 layout: center
 ---
 
@@ -446,6 +367,28 @@ layout: center
    - Tích hợp với 5+ nền tảng AI chính
    - Chi phí đối tác công nghệ tăng 30%
    - ROI đạt 200% sau 12 tháng
+
+</v-clicks>
+
+---
+
+<v-clicks>
+
+### Đề xuất giải pháp:
+
+1. Đối với Quan hệ lao động
+   - Xây dựng lộ trình đào tạo lại và nâng cao kỹ năng cho nhân viên
+   - Áp dụng AI để hỗ trợ nhân viên thay vì thay thế hoàn toàn
+
+2. Đối với Quan hệ khách hàng:
+   - Kết hợp AI với con người để đảm bảo sự cân bằng giữa tự động hóa và trải nghiệm khách hàng
+   - Cải tiến chatbot và voicebot để xử lý ngôn ngữ tự nhiên, tạo cảm giác thân thiện hơn
+   - Bảo vệ dữ liệu khách hàng thông qua các biện pháp bảo mật chặt chẽ
+
+3. Đối với Quan hệ đối tác
+   - Ứng dụng AI để phân tích dữ liệu hợp tác và tối ưu hóa chiến lược kinh doanh
+   - Định kỳ đánh giá hiệu quả của các giải pháp AI để điều chỉnh phù hợp với nhu cầu doanh nghiệp
+
 
 </v-clicks>
 
